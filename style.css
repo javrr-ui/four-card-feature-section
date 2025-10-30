@@ -63,6 +63,11 @@ main {
 	flex-direction: column;
 }
 
+.image__container {
+	display: flex;
+	justify-content: flex-end;
+}
+
 .card-1 {
 	border-top: 6px solid var(--cyan);
 }
@@ -102,7 +107,6 @@ main {
 		font-size: 0.87em;
 		font-weight: 400;
 		margin-top: 0.5em;
-		
+		padding-bottom: 2em;
 	}
-
 }
