@@ -42,19 +42,19 @@ main {
 }
 
 .card-1 {
-	border-top: 4px solid var(--cyan);
+	border-top: 6px solid var(--cyan);
 }
 
 .card-2 {
-	border-top: 4px solid var(--red);
+	border-top: 5px solid var(--red);
 }
 
 .card-3 {
-	border-top: 4px solid var(--orange);
+	border-top: 5px solid var(--orange);
 }
 
 .card-4 {
-	border-top: 4px solid var(--blue);
+	border-top: 5px solid var(--blue);
 }
 
 .card {
