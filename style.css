@@ -66,4 +66,5 @@ main {
 	-ms-border-radius: 5px;
 	-o-border-radius: 5px;
 	max-width: 19em;
+	padding: 2em;
 }
