@@ -63,6 +63,17 @@ main {
 	flex-direction: column;
 }
 
+.first-row,
+.second-row,
+.third-row {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 2em;
+	gap: 2em;
+}
+
 .image__container {
 	display: flex;
 	justify-content: flex-end;
