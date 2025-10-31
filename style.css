@@ -121,3 +121,16 @@ main {
 		padding-bottom: 2em;
 	}
 }
+
+@media screen and (min-width: 1140px) {
+	.cards-container {
+		flex-direction: row;
+		gap: 2em;
+		justify-content: center;
+	}
+
+	.main-header p {
+		max-width: 35em;
+		margin: 0 auto;
+	}
+}
